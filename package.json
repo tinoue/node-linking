@@ -30,6 +30,6 @@
   },
   "readmeFilename": "README.md",
   "dependencies": {
-    "noble": ">=1.8.0"
+    "noble": "git+https://github.com/jrobeson/noble.git#merged"
   }
 }
